@@ -1,2 +1,2 @@
-# Framework
+# framework
 LogikSuite Framework
