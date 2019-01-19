@@ -11,7 +11,7 @@ class Framework {
     }
     
 
-    protected static function initialize() {
+    public static function initialize() {
 
         if (static::$_bIsInitialized) {
             return FALSE;
