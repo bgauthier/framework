@@ -11,7 +11,8 @@
         }
     ],
   "autoload": {
-        "files": [      
+        "files": [   
+            "src/Framework/Initialize.php"   
         ],
         "psr-4": {
             "Framework\\": "src/Framework/"
