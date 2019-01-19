@@ -1,0 +1,20 @@
+{
+  "name":"logiksuite/framework",
+  "description": "LogikSuite Framework.",
+  "keywords": ["framework"],
+  "license": "MIT",
+  "homepage": "https://www.logiksuite.com",
+  "authors": [
+        {
+            "name": "Benoit Gauthier",
+            "email": "bgauthier@globalia.ca"
+        }
+    ],
+  "autoload": {
+        "files": [      
+        ],
+        "psr-4": {
+            "Framework\\": "src/Framework/"
+        }
+    }
+}
