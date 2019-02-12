@@ -1,0 +1,52 @@
+<?php 
+namespace {Namespace};
+
+use Framework\Modules\Data\Table;
+use Illuminate\Support\Facades\Schema;
+use Framework\Modules\Data\Blueprint;
+
+class {Classname} extends Table {
+
+	public function __construct() {
+		parent::__construct();
+		$this->setTableName("{Tablename}");
+	}
+
+	public function getParentTables() {
+		return [
+			// $this->buildTableName("TABLE_NAME")
+		];
+	}
+
+	public function getTableBluePrint() {
+
+		$oTable = new Blueprint($this->getTableName());
+		
+		if (!Schema::hasTable($this->getTableName())) {
+			$oTable->create();
+		}
+
+		// Fields				
+        $oTable->increments('ID');
+
+        $oTable->timestampsTz();
+       
+        
+        // Indexes
+        $oTable->primary("ID", "PRIMARY");
+                    
+        // Foreign keys
+        // $oTable->foreign("TableField", "fk_SN_RO_" . $this->getTableName() . "_TableField")->references("ID")->on($this->buildTableName("FK_TABLE_NAME"));
+        
+
+		return $oTable;
+		
+
+	}
+
+	
+
+
+}
+
+?>

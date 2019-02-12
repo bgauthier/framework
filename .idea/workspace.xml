@@ -1,0 +1,874 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a52aa49f-a46c-4196-879e-61585226dc6b" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/../coreui-free-bootstrap-admin-template/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/../coreui-free-bootstrap-admin-template/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coreui-free-bootstrap-admin-template/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../coreui-free-bootstrap-admin-template/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coreui-free-bootstrap-admin-template/src/base/breadcrumb.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coreui-free-bootstrap-admin-template/src/base/cards.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coreui-free-bootstrap-admin-template/src/base/carousel.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coreui-free-bootstrap-admin-template/src/base/collapse.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coreui-free-bootstrap-admin-template/src/base/forms.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coreui-free-bootstrap-admin-template/src/base/jumbotron.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coreui-free-bootstrap-admin-template/src/base/list-group.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coreui-free-bootstrap-admin-template/src/base/navs.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coreui-free-bootstrap-admin-template/src/base/pagination.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coreui-free-bootstrap-admin-template/src/base/popovers.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coreui-free-bootstrap-admin-template/src/base/progress.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coreui-free-bootstrap-admin-template/src/base/scrollspy.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coreui-free-bootstrap-admin-template/src/base/switches.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coreui-free-bootstrap-admin-template/src/base/tables.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coreui-free-bootstrap-admin-template/src/base/tabs.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coreui-free-bootstrap-admin-template/src/base/tooltips.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coreui-free-bootstrap-admin-template/src/buttons/brand-buttons.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coreui-free-bootstrap-admin-template/src/buttons/button-group.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coreui-free-bootstrap-admin-template/src/buttons/buttons.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coreui-free-bootstrap-admin-template/src/buttons/dropdowns.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coreui-free-bootstrap-admin-template/src/charts.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coreui-free-bootstrap-admin-template/src/colors.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coreui-free-bootstrap-admin-template/src/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../coreui-free-bootstrap-admin-template/src/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coreui-free-bootstrap-admin-template/src/img/avatars/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coreui-free-bootstrap-admin-template/src/img/avatars/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coreui-free-bootstrap-admin-template/src/img/avatars/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coreui-free-bootstrap-admin-template/src/img/avatars/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coreui-free-bootstrap-admin-template/src/img/avatars/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coreui-free-bootstrap-admin-template/src/img/avatars/6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coreui-free-bootstrap-admin-template/src/img/avatars/7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coreui-free-bootstrap-admin-template/src/img/avatars/8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coreui-free-bootstrap-admin-template/src/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coreui-free-bootstrap-admin-template/src/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/../coreui-free-bootstrap-admin-template/src/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coreui-free-bootstrap-admin-template/src/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coreui-free-bootstrap-admin-template/src/register.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coreui-free-bootstrap-admin-template/src/typography.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coreui-free-bootstrap-admin-template/src/widgets.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Framework/Initialize.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Framework/Modules/Core/Framework.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Framework/Modules/Core/Framework.php" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="ControllerController.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Framework/Modules/Build/Controllers/ControllerController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="497">
+              <caret line="106" column="35" selection-start-line="106" selection-start-column="35" selection-end-line="106" selection-end-column="35" />
+              <folding>
+                <element signature="e#55#104#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ControllerControllerBase.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Framework/Modules/Build/Controllers/ControllerControllerBase.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="53" selection-start-line="5" selection-start-column="53" selection-end-line="5" selection-end-column="53" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Controller.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Framework/Modules/Http/Controller.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="276">
+              <caret line="116" column="40" lean-forward="true" selection-start-line="116" selection-start-column="40" selection-end-line="116" selection-end-column="40" />
+              <folding>
+                <element signature="e#839#1419#0#PHP" />
+                <element signature="e#1425#1502#0#PHP" />
+                <element signature="e#1508#1590#0#PHP" />
+                <element signature="e#1596#1682#0#PHP" />
+                <element signature="e#4084#4584#0#PHP" />
+                <element signature="e#4748#4872#0#PHP" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Model.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Framework/Modules/Data/Model.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="525">
+              <caret line="226" column="5" lean-forward="true" selection-start-line="211" selection-start-column="4" selection-end-line="226" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="controller.blade.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Framework/Modules/Http/resources/templates/controller.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="20" column="24" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="controllerbase.blade.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Framework/Modules/Http/resources/templates/controllerbase.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="27" column="34" lean-forward="true" selection-start-line="27" selection-start-column="34" selection-end-line="27" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>_initializeObject</find>
+      <find>script_onready_bottom</find>
+      <find>.breadcrumb-menu .btn</find>
+      <find>array_get</find>
+      <find>ArrayO</find>
+      <find>ArrayObjec</find>
+      <find>ArrayObject</find>
+      <find>nSpecial</find>
+      <find>Strings</find>
+      <find>DB::</find>
+      <find>execute</find>
+      <find>bUpdated</find>
+      <find>updateSt</find>
+      <find>update</find>
+      <find>get</find>
+      <find>setIcon</find>
+      <find>jQuery</find>
+      <find>valida</find>
+      <find>renderJS</find>
+      <find>Request</find>
+      <find>loadMas</find>
+      <find>success</find>
+      <find>_bDebugConsole</find>
+      <find>Page.onPageLoad</find>
+      <find>onPage</find>
+      <find>JSONResponse</find>
+      <find>alert</find>
+      <find>PHP_OPEN_TAG</find>
+      <find>saveF</find>
+      <find>_C1</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Framework/Modules/Http/DataSets/ControllerDataSet.php" />
+        <option value="$PROJECT_DIR$/src/Framework/Modules/Build/Controllers/ModelController.php" />
+        <option value="$PROJECT_DIR$/src/Framework/Modules/UI/Bootstrap/Button.php" />
+        <option value="$PROJECT_DIR$/src/Framework/Modules/Core/Middleware/FrameworkMiddleware.php" />
+        <option value="$PROJECT_DIR$/src/Framework/Modules/Build/Console/BuildCommand.php" />
+        <option value="$PROJECT_DIR$/config/framework.php" />
+        <option value="$PROJECT_DIR$/src/Framework/Modules/Core/Module.php" />
+        <option value="$PROJECT_DIR$/src/Framework/Modules/Data/ArrayDataSet.php" />
+        <option value="$PROJECT_DIR$/src/Framework/Modules/Core/helpers.php" />
+        <option value="$PROJECT_DIR$/src/Framework/Modules/Data/DataSet.php" />
+        <option value="$PROJECT_DIR$/src/Framework/Modules/Data/Query.php" />
+        <option value="$PROJECT_DIR$/src/Framework/Modules/Build/Views/ControllerViewBase.php" />
+        <option value="$PROJECT_DIR$/src/Framework/Modules/Http/DataSets/ControllerActionDataSet.php" />
+        <option value="$PROJECT_DIR$/src/Framework/Modules/UI/Bootstrap/Table.php" />
+        <option value="$PROJECT_DIR$/src/Framework/Modules/UI/Bootstrap/js/Store.js" />
+        <option value="$PROJECT_DIR$/src/Framework/Modules/UI/Bootstrap/Paragraph.php" />
+        <option value="$PROJECT_DIR$/src/Framework/Modules/UI/Bootstrap/Panel.php" />
+        <option value="$PROJECT_DIR$/src/Framework/Modules/Build/Controllers/BuildController.php" />
+        <option value="$PROJECT_DIR$/src/Framework/Modules/UI/Component.php" />
+        <option value="$PROJECT_DIR$/src/Framework/Modules/Build/Views/ControllerView.php" />
+        <option value="$PROJECT_DIR$/src/Framework/Modules/UI/View.php" />
+        <option value="$PROJECT_DIR$/src/Framework/Modules/UI/js/Component.js" />
+        <option value="$PROJECT_DIR$/src/Framework/Modules/UI/Bootstrap/TextArea.php" />
+        <option value="$PROJECT_DIR$/src/Framework/Modules/UI/Bootstrap/js/CheckBox.js" />
+        <option value="$PROJECT_DIR$/src/Framework/Modules/UI/Bootstrap/js/RadioButton.js" />
+        <option value="$PROJECT_DIR$/src/Framework/Modules/UI/Bootstrap/js/Select.js" />
+        <option value="$PROJECT_DIR$/src/Framework/Modules/UI/Bootstrap/js/Table.js" />
+        <option value="$PROJECT_DIR$/src/Framework/Modules/UI/Bootstrap/js/Text.js" />
+        <option value="$PROJECT_DIR$/src/Framework/Modules/UI/Bootstrap/js/TextArea.js" />
+        <option value="$PROJECT_DIR$/src/Framework/Modules/Core/js/Dialog.js" />
+        <option value="$PROJECT_DIR$/src/Framework/Modules/Core/js/Ajax.js" />
+        <option value="$PROJECT_DIR$/src/Framework/Modules/Core/js/Init.js" />
+        <option value="$PROJECT_DIR$/src/Framework/Modules/Core/js/Debug.js" />
+        <option value="$PROJECT_DIR$/src/Framework/Modules/Core/js/Log.js" />
+        <option value="$PROJECT_DIR$/src/Framework/Modules/Core/CoreModule.php" />
+        <option value="$PROJECT_DIR$/src/Framework/Modules/Core/FrameworkServiceProvider.php" />
+        <option value="$PROJECT_DIR$/src/Framework/Modules/Core/Framework.php" />
+        <option value="$PROJECT_DIR$/src/Framework/Modules/UI/Action.php" />
+        <option value="$PROJECT_DIR$/src/Framework/Modules/UI/JQueryAction.php" />
+        <option value="$PROJECT_DIR$/src/Framework/Modules/UI/AlertAction.php" />
+        <option value="$PROJECT_DIR$/src/Framework/Modules/UI/js/JQueryAction.js" />
+        <option value="$PROJECT_DIR$/src/Framework/Modules/UI/js/AlertAction.js" />
+        <option value="$PROJECT_DIR$/src/Framework/Modules/Core/public/libs/moment/moment.js" />
+        <option value="$PROJECT_DIR$/src/Framework/Modules/UI/UIModule.php" />
+        <option value="$PROJECT_DIR$/src/Framework/Modules/Http/Response.php" />
+        <option value="$PROJECT_DIR$/src/Framework/Modules/Http/Request.php" />
+        <option value="$PROJECT_DIR$/src/Framework/Modules/UI/js/PageComponent.js" />
+        <option value="$PROJECT_DIR$/src/Framework/Modules/Build/Controllers/ControllerController.php" />
+        <option value="$PROJECT_DIR$/src/Framework/Modules/Http/resources/templates/controller.blade.php" />
+        <option value="$PROJECT_DIR$/src/Framework/Modules/Http/resources/templates/controllerbase.blade.php" />
+        <option value="$PROJECT_DIR$/src/Framework/Modules/Http/Controller.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/../coreui-free-bootstrap-admin-template/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/../coreui-free-bootstrap-admin-template/package.json" />
+      <path value="$PROJECT_DIR$/../coreui-free-bootstrap-admin-template/src/node_modules/@coreui/coreui-plugin-chartjs-custom-tooltips/package.json" />
+      <path value="$PROJECT_DIR$/../coreui-free-bootstrap-admin-template/src/node_modules/@coreui/coreui-plugin-npm-postinstall/package.json" />
+      <path value="$PROJECT_DIR$/../coreui-free-bootstrap-admin-template/src/node_modules/@coreui/coreui/package.json" />
+      <path value="$PROJECT_DIR$/../coreui-free-bootstrap-admin-template/src/node_modules/@coreui/icons/package.json" />
+      <path value="$PROJECT_DIR$/../coreui-free-bootstrap-admin-template/src/node_modules/bootstrap/package.json" />
+      <path value="$PROJECT_DIR$/../coreui-free-bootstrap-admin-template/src/node_modules/chart.js/package.json" />
+      <path value="$PROJECT_DIR$/../coreui-free-bootstrap-admin-template/src/node_modules/flag-icon-css/package.json" />
+      <path value="$PROJECT_DIR$/../coreui-free-bootstrap-admin-template/src/node_modules/font-awesome/package.json" />
+      <path value="$PROJECT_DIR$/../coreui-free-bootstrap-admin-template/src/node_modules/jquery/package.json" />
+      <path value="$PROJECT_DIR$/../coreui-free-bootstrap-admin-template/src/node_modules/pace-progress/package.json" />
+      <path value="$PROJECT_DIR$/../coreui-free-bootstrap-admin-template/src/node_modules/perfect-scrollbar/package.json" />
+      <path value="$PROJECT_DIR$/../coreui-free-bootstrap-admin-template/src/node_modules/popper.js/package.json" />
+      <path value="$PROJECT_DIR$/../coreui-free-bootstrap-admin-template/src/node_modules/simple-line-icons/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/../coreui-free-bootstrap-admin-template/package.json" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="framework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="framework" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="framework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="framework" type="462c0819:PsiDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="framework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="framework" type="462c0819:PsiDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="framework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="framework" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="framework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="framework" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Framework" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="framework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="framework" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Framework" type="462c0819:PsiDirectoryNode" />
+              <item name="Modules" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="framework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="framework" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Framework" type="462c0819:PsiDirectoryNode" />
+              <item name="Modules" type="462c0819:PsiDirectoryNode" />
+              <item name="Build" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="framework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="framework" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Framework" type="462c0819:PsiDirectoryNode" />
+              <item name="Modules" type="462c0819:PsiDirectoryNode" />
+              <item name="Build" type="462c0819:PsiDirectoryNode" />
+              <item name="Controllers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="framework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="framework" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Framework" type="462c0819:PsiDirectoryNode" />
+              <item name="Modules" type="462c0819:PsiDirectoryNode" />
+              <item name="Build" type="462c0819:PsiDirectoryNode" />
+              <item name="Controllers" type="462c0819:PsiDirectoryNode" />
+              <item name="ControllerController.php" type="620a8d5e:NestingTreeNode" />
+            </path>
+            <path>
+              <item name="framework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="framework" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Framework" type="462c0819:PsiDirectoryNode" />
+              <item name="Modules" type="462c0819:PsiDirectoryNode" />
+              <item name="Core" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="framework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="framework" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Framework" type="462c0819:PsiDirectoryNode" />
+              <item name="Modules" type="462c0819:PsiDirectoryNode" />
+              <item name="Data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="framework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="framework" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Framework" type="462c0819:PsiDirectoryNode" />
+              <item name="Modules" type="462c0819:PsiDirectoryNode" />
+              <item name="Data" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="framework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="framework" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Framework" type="462c0819:PsiDirectoryNode" />
+              <item name="Modules" type="462c0819:PsiDirectoryNode" />
+              <item name="Data" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="framework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="framework" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Framework" type="462c0819:PsiDirectoryNode" />
+              <item name="Modules" type="462c0819:PsiDirectoryNode" />
+              <item name="Http" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="framework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="framework" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Framework" type="462c0819:PsiDirectoryNode" />
+              <item name="Modules" type="462c0819:PsiDirectoryNode" />
+              <item name="Http" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="framework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="framework" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Framework" type="462c0819:PsiDirectoryNode" />
+              <item name="Modules" type="462c0819:PsiDirectoryNode" />
+              <item name="Http" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="framework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="framework" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Framework" type="462c0819:PsiDirectoryNode" />
+              <item name="Modules" type="462c0819:PsiDirectoryNode" />
+              <item name="UI" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="framework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="framework" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Framework" type="462c0819:PsiDirectoryNode" />
+              <item name="Modules" type="462c0819:PsiDirectoryNode" />
+              <item name="UI" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="HRRequestController&#9;null&#9;null&#10;Model&#9;null&#9;null&#10;Paragra&#9;null&#9;null&#10;Table&#9;FILE&#9;file://C:/Users/bgaut/git/GITHUB/framework/src/Framework/Modules/UI/Bootstrap/Table.php&#10;ControllerController&#9;FILE&#9;file://C:/Users/bgaut/git/GITHUB/framework/src/Framework/Modules/Build/Controllers/ControllerController.php&#10;Row&#9;null&#9;null&#10;YouTr&#9;ACTION&#9;ActivateYouTrackToolWindow&#10;You&#9;ACTION&#9;ActivateYouTrackToolWindow" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../coreui-free-bootstrap-admin-template" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a52aa49f-a46c-4196-879e-61585226dc6b" name="Default" comment="" />
+      <created>1548388798157</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1548388798157</updated>
+      <workItem from="1548388799728" duration="5655000" />
+      <workItem from="1548426685086" duration="25000" />
+      <workItem from="1548426726027" duration="10023000" />
+      <workItem from="1548513623910" duration="1236000" />
+      <workItem from="1548518056374" duration="35253000" />
+    </task>
+    <servers>
+      <YouTrack url="https://logiksuite.myjetbrains.com/youtrack">
+        <option name="defaultSearch" value="" />
+        <password>dfdbdf9bdfdddf98dfcfdf99dfd8df9edfdedf9fdfd3df9c</password>
+        <username>bgauthier@globalia.ca</username>
+      </YouTrack>
+    </servers>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="52192000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.26140156" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32925472" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18177083" />
+      <window_info anchor="bottom" id="YouTrack" order="8" weight="0.32925472" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Framework/Modules/Localization/Language.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="25" column="27" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Framework/Modules/UI/Bootstrap/Text.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="26" column="43" selection-start-line="26" selection-start-column="32" selection-end-line="26" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Framework/Modules/UI/Component.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="712">
+          <caret line="942" column="108" lean-forward="true" selection-start-line="942" selection-start-column="108" selection-end-line="942" selection-end-column="108" />
+          <folding>
+            <element signature="e#40#84#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Framework/Modules/Build/Controllers/BuildController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="50" lean-forward="true" selection-start-line="13" selection-start-column="50" selection-end-line="13" selection-end-column="50" />
+          <folding>
+            <element signature="e#54#90#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Framework/Modules/UI/ViewContainer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Framework/Modules/Build/Views/ControllerViewBase.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="16" column="44" lean-forward="true" selection-start-line="16" selection-start-column="44" selection-end-line="16" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Framework/Modules/Build/Views/ControllerView.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="37" selection-start-line="3" selection-start-column="37" selection-end-line="3" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Framework/Modules/UI/View.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="161" lean-forward="true" selection-start-line="161" selection-end-line="161" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Framework/Modules/UI/js/Component.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="63" column="29" selection-start-line="63" selection-start-column="13" selection-end-line="63" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Framework/Modules/UI/Bootstrap/TextArea.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="40" column="31" selection-start-line="40" selection-start-column="31" selection-end-line="40" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Framework/Modules/UI/Bootstrap/js/Button.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Framework/Modules/UI/Bootstrap/js/CheckBox.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="5" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="7" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Framework/Modules/UI/Bootstrap/js/Form.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="30" lean-forward="true" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Framework/Modules/UI/Bootstrap/js/RadioButton.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Framework/Modules/UI/Bootstrap/js/Select.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Framework/Modules/UI/Bootstrap/js/Table.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Framework/Modules/UI/Bootstrap/js/Text.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Framework/Modules/UI/Bootstrap/js/TextArea.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Framework/Modules/Core/js/Init.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Framework/Modules/Core/helpers.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="429">
+          <caret line="93" column="27" selection-start-line="93" selection-start-column="13" selection-end-line="93" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Framework/Modules/Core/js/Localization.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Framework/Modules/Core/js/Debug.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2937">
+          <caret lean-forward="true" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#iframe#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Framework/Modules/Core/js/Framework.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" column="7" lean-forward="true" selection-start-line="32" selection-start-column="7" selection-end-line="32" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Framework/Modules/Core/js/Log.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Framework/Modules/Core/CoreModule.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="39" column="68" lean-forward="true" selection-start-line="39" selection-start-column="68" selection-end-line="39" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Framework/Modules/UI/js/JQueryAction.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="33" lean-forward="true" selection-start-line="30" selection-start-column="33" selection-end-line="30" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Framework/Modules/UI/JQueryAction.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Framework/Modules/UI/Action.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Framework/Modules/Core/Framework.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="47" selection-start-line="47" selection-end-line="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Framework/Modules/Core/FrameworkServiceProvider.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="68" column="24" lean-forward="true" selection-start-line="68" selection-start-column="24" selection-end-line="68" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Framework/Modules/Http/HttpModule.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Framework/Modules/Core/public/libs/moment/moment.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="66" lean-forward="true" selection-start-line="30" selection-start-column="66" selection-end-line="30" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Framework/Modules/Core/Module.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="28" column="34" lean-forward="true" selection-start-line="28" selection-start-column="34" selection-end-line="28" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Framework/Modules/UI/ThemeSettingsBase.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-778" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Framework/Modules/UI/Theme.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="98" column="29" selection-start-line="98" selection-start-column="16" selection-end-line="98" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Framework/Modules/UI/UIModule.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="429">
+          <caret line="32" column="58" lean-forward="true" selection-start-line="32" selection-start-column="58" selection-end-line="32" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Framework/Modules/UI/AlertAction.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="36" column="45" lean-forward="true" selection-start-line="36" selection-start-column="45" selection-end-line="36" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Framework/Modules/UI/js/AlertAction.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" column="38" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Framework/Modules/Core/js/Ajax.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="327">
+          <caret line="151" column="14" lean-forward="true" selection-start-line="151" selection-start-column="14" selection-end-line="151" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Framework/Modules/Core/js/Dialog.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="542">
+          <caret line="140" column="21" selection-start-line="140" selection-start-column="16" selection-end-line="140" selection-end-column="21" />
+          <folding>
+            <element signature="e#104#110#1" expanded="true" />
+            <element signature="e#31#37#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Framework/Modules/Http/Response.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1299">
+          <caret line="80" column="45" selection-start-line="80" selection-start-column="27" selection-end-line="80" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Framework/Modules/Http/Request.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="463">
+          <caret line="29" column="49" lean-forward="true" selection-start-line="29" selection-start-column="49" selection-end-line="29" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Framework/Modules/UI/js/Page.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Framework/Modules/UI/js/PageComponent.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="429">
+          <caret line="168" column="73" selection-start-line="168" selection-start-column="73" selection-end-line="168" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Framework/Modules/Build/Controllers/ControllerControllerBase.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="53" selection-start-line="5" selection-start-column="53" selection-end-line="5" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Framework/Modules/Build/Controllers/ControllerController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="497">
+          <caret line="106" column="35" selection-start-line="106" selection-start-column="35" selection-end-line="106" selection-end-column="35" />
+          <folding>
+            <element signature="e#55#104#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Framework/Modules/Http/resources/templates/controller.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="24" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Framework/Modules/Data/resources/templates/class.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" selection-start-line="23" selection-end-line="23" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Framework/Modules/Http/resources/templates/controllerbase.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="34" lean-forward="true" selection-start-line="27" selection-start-column="34" selection-end-line="27" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Framework/Modules/Data/Model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="226" column="5" lean-forward="true" selection-start-line="211" selection-start-column="4" selection-end-line="226" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Framework/Modules/Http/Controller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="116" column="40" lean-forward="true" selection-start-line="116" selection-start-column="40" selection-end-line="116" selection-end-column="40" />
+          <folding>
+            <element signature="e#839#1419#0#PHP" />
+            <element signature="e#1425#1502#0#PHP" />
+            <element signature="e#1508#1590#0#PHP" />
+            <element signature="e#1596#1682#0#PHP" />
+            <element signature="e#4084#4584#0#PHP" />
+            <element signature="e#4748#4872#0#PHP" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

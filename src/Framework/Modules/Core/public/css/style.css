@@ -1,0 +1,6 @@
+/**
+ * Bug fix in bootstrap 4 of bootbox dialog
+ */
+.bootbox .modal-header {
+    display: block;
+}
